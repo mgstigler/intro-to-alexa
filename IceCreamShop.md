@@ -1,3 +1,4 @@
+# Ice Cream Shop Skill
 In this post, we are building a custom skill called the Ice Cream Shop skill.
 
 Sample Dialogue:
@@ -36,8 +37,7 @@ A representative list of possible values
 ex: mango, strawberry, caramel, vanilla
 let's start creating the skill
 
-1. 
-Go to developer.amazon.com/alexa/console/ask
+1. Go to developer.amazon.com/alexa/console/ask
 
 2. Enter credentials and click on Sign in, if you don't have an account, create one.
 Developer console will display the skills if any.
